@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-echo The School is open!
-=======
-echo "The school is open!"
->>>>>>> Hot fix
+echo The school is open!
